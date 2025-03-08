@@ -849,14 +849,14 @@
         },
         {
             "key": "农民影视",
-            "name": "农民影视",
+            "name": "农民｜影视",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "./XBPQ/农民影视.json"
         },
         {
             "key": "秀儿影视",
-            "name": "秀儿影视",
+            "name": "秀儿｜影视",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "./XBPQ/秀儿影视.json"
